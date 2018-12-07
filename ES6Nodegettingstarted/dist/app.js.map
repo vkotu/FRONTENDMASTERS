@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/app.js"],"names":[],"mappings":";;2BAAwB,gBAAgB;;AAExC,IAAI,CAAC,GAAG,2BAAc,CAAC,EAAC,CAAC,CAAC,CAAC;AAC3B,OAAO,CAAC,GAAG,CAAC,CAAC,CAAC,IAAI,EAAE,CAAC,CAAC","file":"app.js","sourcesContent":["import {Rectangle} from \"./rectangle.js\"\n\nvar r = new Rectangle(1,2);\nconsole.log(r.area());\n"]}
